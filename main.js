@@ -17,6 +17,4 @@ let H = [
 
 let result = fs.sum(M, H);
 
-fs.bLog(result)
-console.log();
-fs.bLog(M)
+console.log('Hello');
